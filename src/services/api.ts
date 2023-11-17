@@ -1,7 +1,7 @@
 import axios from 'axios';
 
-const COUNTRY_API_BASE_URL = 'https://api.countrylayer.com/v2';
-const WEATHER_API_BASE_URL = 'https://api.weatherstack.com/current';
+const COUNTRY_API_BASE_URL = 'http://api.countrylayer.com/v2';
+const WEATHER_API_BASE_URL = 'http://api.weatherstack.com/current';
 const COUNTRY_API_KEY = '283149f26b1e75289a0182cc009541b9';
 const WEATHER_API_KEY = 'e8df2a4a28933ef6c53228dfda44b2a8';
 
